@@ -1,0 +1,5 @@
+       private void toolStripButton9_Click(object sender, EventArgs e)
+        {
+            if (getCurrentBrowser().Url != null)
+                addLink(getCurrentBrowser().Url.ToString(), getCurrentBrowser().Url.ToString());
+        }

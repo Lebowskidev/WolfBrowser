@@ -1,0 +1,22 @@
+       private void toolStripButton6_Click(object sender, EventArgs e)
+        {
+            favoritesPanel.Visible = !favoritesPanel.Visible;
+            settings.DocumentElement.ChildNodes[3].Attributes[0].Value = favoritesPanel.Visible.ToString();
+        }
+        //add to favorits bar button
+        private void toolStripButton9_Click(object sender, EventArgs e)
+        {
+            if (getCurrentBrowser().Url != null)
+                addLink(getCurrentBrowser().Url.ToString(), getCurrentBrowser().Url.ToString());
+        }
+
+        //showLinks on link bar
+        private void showLinks()
+        {
+            if (File.Exists(linksXml))
+            {
+                XmlDocument myXml = new XmlDocument();
+                myXml.Load(linksXml);
+                XmlElement root = myXml.DocumentElement;
+                foreach (XmlElement el in root.ChildNodes)
+                {
