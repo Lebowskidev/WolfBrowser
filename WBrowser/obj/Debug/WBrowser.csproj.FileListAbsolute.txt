@@ -1,0 +1,17 @@
+E:\visual project\WBrowser\WBrowser\bin\Debug\WBrowser.exe
+E:\visual project\WBrowser\WBrowser\bin\Debug\WBrowser.pdb
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.csprojResolveAssemblyReference.cache
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.About.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.AddFavorites.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.Calendar.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.Close.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.DeleteBrowsingHistory.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.InternetOption.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.WBrowser.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.Open.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.OrganizeFavorites.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.Properties.Resources.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.RenameLink.resources
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.csproj.GenerateResource.Cache
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.exe
+E:\visual project\WBrowser\WBrowser\obj\Debug\WBrowser.pdb
